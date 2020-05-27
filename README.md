@@ -5,11 +5,13 @@
 Инженер программист, студент. Пишу код, иногда что-то паяю.
 
 ## Развёрнуто
-Изучаю программрование и IT уже 5 лет. Посещал факультативные занятия и курсы для школьников (Школа Кода в ЮФУ на кафедре МОПЭВМ, за успехи в учебе награждён несколькими грамотами). Люблю решать сложные задачи и учиться новому. Учавствовал во множестве хакатонов и митапов, 
-выиграл последний CyberGarden в Таганроге,
-ссылка на новость (https://bloknot-taganrog.ru/news/perspektivnykh-programmistov-nagradili-na-marafone?sphrase_id=1251684).  
-Ссылка на мой профиль на GitHub https://github.com/FriZIk. 
-Ссылка на LeaderID https://leader-id.ru/667183/.
+Изучаю программрование и IT уже 5 лет. Посещал факультативные занятия и курсы для школьников (Школа Кода в ЮФУ на кафедре МОПЭВМ, за успехи в учебе награждён несколькими грамотами).Сейчас обучаюсь на кафедре математического обеспечения и применения ЭВМ, ИКТИБ ЮФУ(бывший ТРТУ/ТРТИ). Люблю решать сложные задачи и учиться новому. Учавствовал во множестве хакатонов и митапов, выиграл последний CyberGarden в Таганроге, мы с командой создали электронные гербарий с автоматическим распознаванием вида растения. В мае 2020 наш проект «Приложение дополненной реальности для парковых зон с информационным насыщением» стал абсолютным чемпионом хакатона «Хакни COVID-19».
+
+1. Подробнее о Хакни COVID-19:  https://bloknot-taganrog.ru/news/taganrogskie-studenty-stali-pobeditelyami-onlayn-kh
+2. Подробнее о CyberGarden: (https://bloknot-taganrog.ru/news/perspektivnykh-programmistov-nagradili-na-marafone?sphrase_id=1251684).  
+3. Ссылка на мой профиль на GitHub https://github.com/FriZIk. 
+4. Ссылка на LeaderID https://leader-id.ru/667183/.
+5. Все сертификаты с открытх курсов и дипломы хакатонов хранятся в этом репозитории
 
 ## В профессиональном плане 
-Знаком  и работал c : C/C++, C#, Java,Unity 3d, Python 3,deep learning/ machine learning, TensorFlow,Keras ,PyTorch, Numpy,Matplotlib, linux (arch, ubuntu, debian, kali, freebsd), FPGA(ПЛИС) производства xilinx, микроконтроллеры atmega328/atmega2560/stm32, системы контроля версий(git).
+Знаком  и работал c : C/C++, C#,Android Java,Unity 3d, Python 3,deep learning/ machine learning, TensorFlow, Keras ,PyTorch, Numpy,Matplotlib, linux (arch, ubuntu, debian, kali, freebsd), FPGA(ПЛИС) производства xilinx, VHDL, микроконтроллеры atmega328/atmega2560/stm32, системы контроля версий(git).
